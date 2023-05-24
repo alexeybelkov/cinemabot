@@ -1,4 +1,4 @@
-Ник бота: @lbelkov_bot     
+Ник бота: @lbelkov_bot  (сейча отключен)     
 Использовал aiohttp, aiogram, sqlite3, в качестве апи для запросов к базе фильмов IMDb использовал https://imdb-api.com/    
 База данных - простенькая бд на sqlite3, почти как в simple_selects     
 Ссылки для просмотра фильмов выдавал через Programmable Search Engine от Google     
